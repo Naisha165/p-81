@@ -1,0 +1,19 @@
+.body_background
+{
+  background-image:url("1557.jpg") ;
+  background-position:center;
+  background-size:cover;
+}
+
+#myCanvas
+{
+  border-width: 10px;
+  border-style:ridge;
+  background-color: rgb(255, 127, 229);
+}
+
+h1
+{
+  color: rgb(207, 51, 176);
+  font-size: larger;
+}
